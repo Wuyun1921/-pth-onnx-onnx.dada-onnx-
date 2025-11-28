@@ -1,4 +1,4 @@
-# -pth-onnx-onnx.dada-onnx-
+# pth转onnx模型的方法（合并网络结构onnx.data和权重参数onnx2个文件）
 之前的脚本都是存储模型的网络结构和权重参数，分为两个文件，现在可通过脚本将pth转化直接得到onnx
     
     
